@@ -1,5 +1,7 @@
 # Essência Acadêmica
 ![Prévia do site Essência Acadêmica](assets/preview.png)
+![Aviãozinho de papel voando](assets/aviaozinho_essencia.gif)
+
 
 ### O conhecimento é seu. A voz também.
 
